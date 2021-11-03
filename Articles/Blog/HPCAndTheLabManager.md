@@ -1,6 +1,6 @@
 # HPC and The Lab Manager
 
-**Flash Center Simulations of Type Ia Detonation**
+**Flash Center Simulations of Type Ia Supernova Detonation**
 
 <img src='../../images/gcd.png' />
 
